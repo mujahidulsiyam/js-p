@@ -1,3 +1,7 @@
 1.Name alias.
 2.Destrutuning (obect + array)
-3.spread and rest
+3.spread and rest operator
+4.foreach 
+5.arrow(revice)
+6.map
+7.filter

@@ -5,3 +5,7 @@
 5.arrow(revice)
 6.map
 7.filter
+8.Find
+9.includes
+10.some
+11.every

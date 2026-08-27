@@ -1,0 +1,2 @@
+1.Name alias.
+2.Destrutuning (obect + array)

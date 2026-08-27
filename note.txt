@@ -7,5 +7,7 @@
 7.filter
 8.Find
 9.includes
-10.some
-11.every
+10.some method
+11.every method
+12.reduce method
+13.method chaining

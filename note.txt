@@ -11,3 +11,5 @@
 11.every method
 12.reduce method
 13.method chaining
+14.Optional chaining
+15.nulish collescing
